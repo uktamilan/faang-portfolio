@@ -45,14 +45,14 @@ const timelineData: TimelineItem[] = [
   {
     id: 3,
     type: "future",
-    role: "FAANG & Product Engineer Candidate",
+    role: "High-Scale Systems Engineer Candidate",
     organization: "Scale & Reliability Readiness",
     period: "Active Preparation",
     icon: Flame,
     details: [
       "Deepening expertise in Distributed Systems, System Design (HLD/LLD), microservice patterns, and cloud containerization.",
       "Solving complex algorithmic challenges on LeetCode/Hackerrank with focus on time/space complexity optimizations.",
-      "Actively searching for impactful roles at product companies and FAANG-level engineering teams."
+      "Actively searching for impactful roles at top product companies and engineering teams."
     ]
   }
 ];

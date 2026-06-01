@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "Spring Boot Developer",
     "Microservices Engineer",
     "React Developer",
-    "FAANG Portfolio",
+    "Full Stack Portfolio",
     "Software Engineer Portfolio"
   ],
   authors: [{ name: "Udayakumar S" }],

@@ -63,7 +63,7 @@ export default function About() {
                 My approach is driven by curiosity and standard coding practices. I thrive in collaborative environments where performance optimization, clean architectures, and automated testing are core priorities.
               </p>
               <p className="text-cyan-300/90 font-mono text-xs sm:text-sm">
-                // Actively preparing for top product companies and FAANG-level opportunities.
+                // Actively preparing for top product engineering opportunities.
               </p>
             </div>
 

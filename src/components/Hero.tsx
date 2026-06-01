@@ -49,7 +49,7 @@ export default function Hero() {
             className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-violet-500/30 bg-violet-950/20 text-violet-400 text-xs font-mono tracking-wider"
           >
             <Sparkles className="w-3.5 h-3.5 animate-pulse" />
-            FAANG RECRUITMENT-READY PORTFOLIO
+            FULL-STACK SOFTWARE ENGINEER PORTFOLIO
           </motion.div>
 
           <motion.h1
