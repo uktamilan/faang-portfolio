@@ -74,7 +74,7 @@ export default function Contact() {
       icon: GithubIcon,
       label: "GitHub",
       value: "github.com/udhayakumars0101",
-      href: "https://github.com/udhayakumars0101"
+      href: "https://github.com/uktamilan"
     }
   ];
 

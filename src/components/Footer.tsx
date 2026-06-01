@@ -39,7 +39,7 @@ export default function Footer() {
         {/* Center: Social Quicklinks */}
         <div className="flex items-center gap-5">
           <a
-            href="https://github.com/udhayakumars0101"
+            href="https://github.com/uktamilan"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors cursor-none"
