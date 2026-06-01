@@ -151,7 +151,7 @@ export default function Hero() {
               src="/profile.jpg"
               alt="Udayakumar S"
               fill
-              className="object-cover object-center filter brightness-110 contrast-105 saturate-95 group-hover:scale-105 transition-transform duration-700 rounded-full"
+              className="object-cover object-top filter brightness-110 contrast-105 saturate-95 group-hover:scale-105 transition-transform duration-700 rounded-full"
               priority
               sizes="(max-w-768px) 100vw, 300px"
             />
