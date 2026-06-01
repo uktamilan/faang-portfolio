@@ -47,7 +47,7 @@ const projectsData: Project[] = [
       { label: "ESP32 Latency", value: "<150ms" }
     ],
     tags: ["Java", "Spring Boot", "ESP32 C++", "React", "MySQL", "WebSockets"],
-    github: "https://github.com/udhayakumars0101",
+    github: "https://github.com/uktamilan",
     demo: "#",
     status: "live"
   },
@@ -67,7 +67,7 @@ const projectsData: Project[] = [
       { label: "Parsing Rate", value: "400 lines/s" }
     ],
     tags: ["Python", "FastAPI", "React", "LangChain", "VectorDB"],
-    github: "https://github.com/udhayakumars0101",
+    github: "https://github.com/uktamilan",
     status: "sandbox"
   },
   {
@@ -86,7 +86,7 @@ const projectsData: Project[] = [
       { label: "AWS Nodes", value: "4 EC2 Swarm" }
     ],
     tags: ["Docker", "AWS", "Kafka", "Grafana", "OpenTelemetry"],
-    github: "https://github.com/udhayakumars0101",
+    github: "https://github.com/uktamilan",
     status: "architecture"
   },
   {
@@ -105,7 +105,7 @@ const projectsData: Project[] = [
       { label: "Gas Cost", value: "$0.00" }
     ],
     tags: ["Next.js", "Java Cryptography", "Web3", "PostgreSQL"],
-    github: "https://github.com/udhayakumars0101",
+    github: "https://github.com/uktamilan",
     status: "prototyping"
   }
 ];
